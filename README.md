@@ -1,5 +1,5 @@
 # CS4Projects
-A Sample of my CS4 Data Structures Projects
+A Sample of my CS4 Data Structures Projects.
 
 # Highlights
 - Primes Project (Counts the number of primes in a range. Implements a segmented Sieve of Eratosthenes) -- Located in PrimesProject folder
